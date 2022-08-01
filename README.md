@@ -4,7 +4,7 @@
 const Tiin24 = {
   Skills: {
       BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize']},
+          {JavaScript: ['NodeJs', 'Express', 'Sequelize','PostgreSQL']},
         ],
       FrontEnd: [
           {JavaScript: ['React', 'Redux'], 'Css', 'Html5'}
