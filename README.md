@@ -7,7 +7,7 @@ const Tiin24 = {
           {JavaScript: ['NodeJs', 'Express', 'Sequelize']},
         ],
       FrontEnd: [
-          {JavaScript: ['React', 'Redux']}
+          {JavaScript: ['React', 'Redux'], Css, Html5}
         ]
     },
   Proyects: [
