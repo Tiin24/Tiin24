@@ -7,12 +7,12 @@ const Tiin24 = {
           {JavaScript: ['NodeJs', 'Express', 'Sequelize','PostgreSQL']},
         ],
       FrontEnd: [
-          {JavaScript: ['React', 'Redux'], 'Css', 'Html5'}
+          {JavaScript: ['React', 'Redux'], Css, Html5}
         ]
     },
   Proyects: [
       {Food-Pi: [javascript:[Ract,Redux],Node.js,PostgreSQL,Express,Sequelize,Css}
-      {Green-Shop:[javascript:[Ract,Redux],Node.js,PostgreSQL,Express,Sequelize,Css,Firebase,JWT,Mercado-Pago]}
+      {Green-Shop:[javascript:[Ract,Redux],Node.js,PostgreSQL,Express,Sequelize,Css,Firebase,JWT]}
     ],
 }
 ```
