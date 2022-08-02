@@ -22,10 +22,10 @@ const Tiin24 = {
   <div>
     <span>PI-Food</span>
     <div>
-      <img src="./asscets/Landing page food.png" alt="" align="center" height="20%" width="20%" >
-      <img src="./asscets/Home Page food.png" alt="" align=center height="20%" width="20%">
-      <img src="./asscets/Detail Page.png" alt="" align=center height="20%" width="20%">
-      <img src="./asscets/Create Page.png" alt="" align=center height="20%" width="20%">
+      <img src="https://firebasestorage.googleapis.com/v0/b/greenshop-fa359.appspot.com/o/Landing%20page%20food.png?alt=media&token=19f677a9-7c2e-419d-a2de-88923b47d2cb" alt="" align="center" height="20%" width="20%" >
+      <img src="https://firebasestorage.googleapis.com/v0/b/greenshop-fa359.appspot.com/o/Create%20Page.png?alt=media&token=497f0587-9a13-488d-aba7-fe1201b0661c" alt="" align=center height="20%" width="20%">
+      <img src="https://firebasestorage.googleapis.com/v0/b/greenshop-fa359.appspot.com/o/Detail%20Page.png?alt=media&token=e3e0de16-3835-4eb4-b318-6cc37334a940" alt="" align=center height="20%" width="20%">
+      <img src="https://firebasestorage.googleapis.com/v0/b/greenshop-fa359.appspot.com/o/Create%20Page.png?alt=media&token=497f0587-9a13-488d-aba7-fe1201b0661c" alt="" align=center height="20%" width="20%">
     </div>
   </div>
 </div>
