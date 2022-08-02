@@ -22,10 +22,10 @@ const Tiin24 = {
   <div>
     <span>PI-Food</span>
     <div>
-      <img src="./asscets/Landing page food.png" alt="" align="center" height="20" width="20" >
-      <img src="./asscets/Home Page food.png" alt="" align=center height="20" width="20">
-      <img src="./asscets/Detail Page.png" alt="" align=center height="20" width="20">
-      <img src="./asscets/Create Page.png" alt="" align=center height="20" width="20">
+      <img src="./asscets/Landing page food.png" alt="" align="center" height="20%" width="20%" >
+      <img src="./asscets/Home Page food.png" alt="" align=center height="20%" width="20%">
+      <img src="./asscets/Detail Page.png" alt="" align=center height="20%" width="20%">
+      <img src="./asscets/Create Page.png" alt="" align=center height="20%" width="20%">
     </div>
   </div>
 </div>
