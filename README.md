@@ -18,6 +18,11 @@ const Tiin24 = {
 ```
 
 <div>
+  <h2>About Me</h2>
+  <p>Hola, mi nombre es Agustin, soy un desarrollador web junior full stack. todos los días aprendo nuevos conceptos y trabajo junto con colegas y amigos en nuevos proyectos no solo para aprender nuevas tecnologías sino también lo más importante, que es el trabajo en equipo.</p>
+</dib>
+
+<div>
   <h2>Proyects 📌</h2>
   <div>
     <span>PI-Food</span>
