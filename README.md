@@ -17,13 +17,13 @@ const Tiin24 = {
 }
 ```
 
-<div>
-  <h2>About Me</h2>
+<div align="center">
+  <h2 align="center">About Me</h2>
   <p>Hola, mi nombre es Agustin, soy un desarrollador web junior full stack. todos los días aprendo nuevos conceptos y trabajo junto con colegas y amigos en nuevos proyectos no solo para aprender nuevas tecnologías sino también lo más importante, que es el trabajo en equipo.</p>
 </dib>
 
-<div>
-  <h2>Proyects 📌</h2>
+<div align="center">
+  <h2 align="center">Proyects 📌</h2>
   <div>
     <span>PI-Food</span>
     <div>
@@ -53,7 +53,7 @@ const Tiin24 = {
 
 
 <div align="center">
-  <h2>Contactame :paperclip: </h2>
+  <h2 align="center">Contactame :paperclip: </h2>
   <img align="center" src="https://media.giphy.com/media/11D0XkJInM2ssU/giphy.gif" alt="">
   <div align="center">
 <a align="center" href="https://www.linkedin.com/in/isaias-romero/" ><img width="5%" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png"> &nbsp;
