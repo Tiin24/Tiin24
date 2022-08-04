@@ -42,9 +42,10 @@ const Tiin24 = {
       </div>
       <div>
         <span>Weather App</span>
+          <div>
           <img src="https://firebasestorage.googleapis.com/v0/b/greenshop-fa359.appspot.com/o/Wp%20home.png?alt=media&token=35b1e9cc-1d2c-4869-af9d-09d41bc21017" alt"" heigth="20%" width="20%">
           <img src="https://firebasestorage.googleapis.com/v0/b/greenshop-fa359.appspot.com/o/Wp%20Data.png?alt=media&token=94276b98-c273-49a3-b15e-9e62fe48ae94" alt"" heigth="20%" width="20%">
-        
+        </div>
       </div>
     </div>
   </div>
