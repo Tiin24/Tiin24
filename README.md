@@ -54,7 +54,7 @@ const Tiin24 = {
 
 <div>
   <h2>Contactame :paperclip: </h2>
-  <img align="rigth" src="https://media.giphy.com/media/11D0XkJInM2ssU/giphy.gif" alt="">
+  <img align="justify" src="https://media.giphy.com/media/11D0XkJInM2ssU/giphy.gif" alt="">
   <div align="center">
 <a align="center" href="https://www.linkedin.com/in/isaias-romero/" ><img width="5%" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png"> &nbsp;
 <a align="center" href="mailto:romeroisaiasagustin@gmail.com" ><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg">
