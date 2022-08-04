@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/lDmsGbXcCuyOI/giphy.gif" alt="">
+  <img src="https://media.giphy.com/media/lDmsGbXcCuyOI/giphy.gif" alt="" width="100%">
   
 </p>
 </br>
