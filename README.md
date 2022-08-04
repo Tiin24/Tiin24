@@ -23,7 +23,7 @@ const Tiin24 = {
 </dib>
 
 <div align="center">
-  <h2 align="center">Proyects 📌</h2>
+  <h2 align="center">𝓟𝓻𝓸𝔂𝓮𝓬𝓽𝓼 📌</h2>
   <div>
     <span>PI-Food</span>
     <div>
@@ -53,7 +53,7 @@ const Tiin24 = {
 
 
 <div align="center">
-  <h2 align="center">Contactame :paperclip: </h2>
+  <h2 align="center">𝓒𝓸𝓷𝓽𝓪𝓬𝓽𝓪𝓶𝓮 :paperclip: </h2>
   <img align="center" src="https://media.giphy.com/media/11D0XkJInM2ssU/giphy.gif" alt="">
   <div align="center">
 <a align="center" href="https://www.linkedin.com/in/isaias-romero/" ><img width="5%" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png"> &nbsp;
@@ -62,5 +62,6 @@ const Tiin24 = {
 </div>
 
 <div align="center">
+  <h2 align="center">𝓕𝓘𝓝</h2>
   <img src="https://steamuserimages-a.akamaihd.net/ugc/321248520405385743/4F220AE182B09F6965423E0D7875BC83EF9528DE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="" align="center" width="100%">
 </div>
