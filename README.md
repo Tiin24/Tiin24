@@ -52,7 +52,7 @@ const Tiin24 = {
 </div>
 
 
-<div>
+<div align="center">
   <h2>Contactame :paperclip: </h2>
   <img align="center" src="https://media.giphy.com/media/11D0XkJInM2ssU/giphy.gif" alt="">
   <div align="center">
