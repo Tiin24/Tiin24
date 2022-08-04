@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btXJQm5DD8ApubC/giphy.gif" alt="" width="100%">
+  <img src="https://media.giphy.com/media/3o7btXJQm5DD8ApubC/giphy.gif" alt="" width="100%" alt"30px">
 </p>
 </br>
 <h1 align="center"> Hola, Mi nombre es Agustin! 👋 :computer: </h1>
