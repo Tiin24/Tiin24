@@ -62,5 +62,5 @@ const Tiin24 = {
 </div>
 
 <div align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/321248520405385743/4F220AE182B09F6965423E0D7875BC83EF9528DE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="" align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/321248520405385743/4F220AE182B09F6965423E0D7875BC83EF9528DE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="" align="center" width="100%">
 </div>
