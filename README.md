@@ -59,7 +59,7 @@ const Tiin24 = {
 <a href="https://www.linkedin.com/in/isaias-romero/" ><img width="5%" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png"> &nbsp;
 <a href="mailto:romeroisaiasagustin@gmail.com" ><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg">
 </span>
- 
+  <img align="rigth" src="https://tenor.com/bGBDx.gif" alt="">
 </div>
 
 <div align="center">
