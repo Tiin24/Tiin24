@@ -59,7 +59,7 @@ const Tiin24 = {
 <a href="https://www.linkedin.com/in/isaias-romero/" ><img width="5%" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png"> &nbsp;
 <a href="mailto:romeroisaiasagustin@gmail.com" ><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg">
 </span>
-  <iframe src="https://giphy.com/embed/11D0XkJInM2ssU" width="480" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studio-ghibli-hayao-miyazaki-11D0XkJInM2ssU">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/11D0XkJInM2ssU/giphy.gif" alt="">
 </div>
 
 <div align="center">
