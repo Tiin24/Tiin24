@@ -59,7 +59,7 @@ const Tiin24 = {
 <a href="https://www.linkedin.com/in/isaias-romero/" ><img width="5%" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png"> &nbsp;
 <a href="mailto:romeroisaiasagustin@gmail.com" ><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg">
 </span>
-  <div align="rigth" class="tenor-gif-embed" data-postid="22508441" data-share-method="host" data-aspect-ratio="0.796875" data-width="100%"><a href="https://tenor.com/view/nezuko-esperando-a-esperar-fofinha-esperando-gif-22508441">Nezuko Esperando GIF</a>from <a href="https://tenor.com/search/nezuko-gifs">Nezuko GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <iframe src="https://giphy.com/embed/11D0XkJInM2ssU" width="480" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studio-ghibli-hayao-miyazaki-11D0XkJInM2ssU">via GIPHY</a></p>
 </div>
 
 <div align="center">
