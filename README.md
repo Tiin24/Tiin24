@@ -51,6 +51,13 @@ const Tiin24 = {
           <img src="https://firebasestorage.googleapis.com/v0/b/greenshop-fa359.appspot.com/o/Wp%20home.png?alt=media&token=35b1e9cc-1d2c-4869-af9d-09d41bc21017" alt"" heigth="20%" width="20%">
           <img src="https://firebasestorage.googleapis.com/v0/b/greenshop-fa359.appspot.com/o/Wp%20Data.png?alt=media&token=94276b98-c273-49a3-b15e-9e62fe48ae94" alt"" heigth="20%" width="20%">
         </div>
+        <div>
+        <span>PelisFlix</span>
+          <img src="https://firebasestorage.googleapis.com/v0/b/lo-mio-1fc99.appspot.com/o/Login%20pelis.png?alt=media&token=c373bbfe-b846-4f5c-9c70-ef5ecda2eb51" alt"" heigth="20%" width="20%">
+          <img src="https://firebasestorage.googleapis.com/v0/b/lo-mio-1fc99.appspot.com/o/listado%20pelis.png?alt=media&token=9ad8fcc5-ec67-4ae1-986a-51604e6c4220" alt"" heigth="20%" width="20%">
+          <img src="https://firebasestorage.googleapis.com/v0/b/lo-mio-1fc99.appspot.com/o/Detail%20pelis.png?alt=media&token=a418dc99-0083-445c-91ab-562b17b8e1ad" alt"" heigth="20%" width="20%">
+          <img src="https://firebasestorage.googleapis.com/v0/b/lo-mio-1fc99.appspot.com/o/Favs%20pelis.png?alt=media&token=13e74c81-0d95-4d56-aaba-0f69782241f1" alt"" heigth="20%" width="20%">
+        </div>
       </div>
     </div>
   </div>
